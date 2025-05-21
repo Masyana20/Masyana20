@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Masyana20
-- 👀 I’m interested in backend-developing
+- 👋 Hi, I’m Kate 
+- 👀 I'm interested in photography
 - 🌱 I’m currently learning programming languages like Java, Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cool IT-company
 - 📫 How to reach me ...
 
 <!---
